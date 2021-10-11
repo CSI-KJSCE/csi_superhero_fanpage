@@ -1,0 +1,10 @@
+{
+    "title" :"Iron Man",
+    "image" :"https://i.postimg.cc/j2Kp5GPm/iron-man.jpg",
+    "description" :"A founding member and leader of the Avengers and a genius CEO of stark industries!",
+    "power" :["Tech Suit","Genius","Iron Armor","Avenger"],
+    "widget_color" :"red",
+    "text_color" :"white", 
+    "dialogue":"Everyone Wants A Happy Ending, Right? But It Doesn't Always Roll That Way",
+    "author" : "Krutika Bhatt"
+}

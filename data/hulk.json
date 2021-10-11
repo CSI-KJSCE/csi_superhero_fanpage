@@ -1,0 +1,10 @@
+{
+    "title" :"The Incredible Hulk",
+    "image" :"https://i.postimg.cc/kGXTL9xJ/hulk.jpg",
+    "description" :"Bruce Banner turns into a green rage machine called the Hulk...Awesome!!",
+    "power" :["Gamma Radiation","Powerfull","Smashing","Avenger"],
+    "widget_color" :"green",
+    "text_color" :"white", 
+    "dialogue":"Hulk will break metal man open like a tin can. Metal man thinks he is stronger than Hulk. Metalman wrong",
+    "author" : "Akhil Nagar"
+}
