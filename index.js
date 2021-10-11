@@ -26,5 +26,5 @@ app.get('/',async(req,res) =>{
     }
    
 })
-const PORT = '8080';
+const PORT = process.env.PORT || 8080;
 const server = app.listen(PORT, () => console.log("App is listening on url http://localhost:" + PORT))
