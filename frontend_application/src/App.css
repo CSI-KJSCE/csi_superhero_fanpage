@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+@font-face {
+  font-family: simple-comic;
+  src: url("./fonts/simple-comic.otf") format("opentype");
+}
+
+@font-face {
+  font-family: rogers;
+  src: url("./fonts/rogers.otf") format("opentype");
+}
+
+
+.background{
+  background-image: url('./assets//superpower_background.jpg');
+  height: 100%; 
+  width: 100vw;
+  min-height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.logo{
+  justify-self: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
+
+.superhero_container{
+  display:flex;
+  margin-top :3em;
+  width :75%;
+  background-color: rgb(236, 231, 231);
+  border: 5px solid #62aafc;
+  border-radius: 8px;
+  justify-self: center;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.photo{
+  display :block
+}
+.superhero_photo{
+  margin-left: 20px;
+  margin-top: 5px;
+  margin-bottom:5px;
+  height: 350px;
+  width: 260px;
+  object-fit: cover;
+  border:2px solid #666;
+  border-radius:5px;
+  box-shadow: 5px 5px 5px #999;
+}
+
+.info_division{
+  display: block;
+  margin-left: 40px;
+  margin-right: 10px;
+}
+
+.title_name{
+  font-weight: bold;
+  font-family: 'rogers';
+  font-size :50px;
+  letter-spacing :2.2px;
+  margin-bottom: 10px;
+}
+.description{
+  font-size :24px;
+  margin-top: 18px;
+}
+
+.powers_arrays{
+  margin-top: 26px;
+  display :flex;
+}
+.power{
+  background-color: rgb(247, 79, 49);
+  color:white;
+  font-size :20px;
+  letter-spacing:1px;
+  font-weight: bold;
+  padding: 6px 10px 10px 10px;
+  border-radius :5px;
+  margin-right: 25px;
+  margin-top :25px;
+}
+
+.spinner{
+  justify-self: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height :100px;
+  width :100px;
+  padding-top: 100px;
+}
+
+
+.quotes_complete{
+  margin-top: 35px;
+  font-family: 'Patrick Hand', cursive;
+  font-size :30px;
+  font-weight: bolder;
+}
+.Author_name{
+  font-size:20px;
+  font-weight: bold;
+  font-family:'Courier New', Courier, monospace;
+  color:rgb(99, 92, 92);
+  float: right;
+  justify-content:flex-end;
+}
