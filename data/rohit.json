@@ -1,0 +1,10 @@
+{
+    "title" :"Ant Man",
+    "image" :"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.hdwallpaper.nu%2Fwp-content%2Fuploads%2F2019%2F01%2Fantman_and_the_wasp-7.jpg&f=1&nofb=1",
+    "description" :"A good man with a criminal past, Scott Lang builds upon the legacy of one of the founding Avengers as the size-changing hero Ant-Man.",
+    "power" :["Size Reduction","Entering other Planes of existence","Strength","Avenger"],
+    "widget_color" :"red",
+    "text_color" :"white", 
+    "dialogue":"Geez, I really walked into that one, didn't I?",
+    "author" : "Rohit Shinde"
+}
