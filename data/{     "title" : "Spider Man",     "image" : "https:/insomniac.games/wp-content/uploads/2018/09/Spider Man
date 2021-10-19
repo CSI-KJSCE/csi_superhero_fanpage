@@ -1,0 +1,10 @@
+{
+    "title" : "Spider Man",
+    "image" : "https://insomniac.games/wp-content/uploads/2018/09/Spider-Man_PS4_Selfie_Photo_Mode_LEGAL.jpg",
+    "description" :"Spider-Man has spider-like abilities including superhuman strength and the ability to cling to most surfaces.",
+    "power" : ["Spider-Web","Agility","Camouflage"],
+    "widget_color" :"red",
+    "text_color" :"white", 
+    "dialogue":"With great power, comes great responsibility.",
+    "author" : "Chirag Sharma"
+}
