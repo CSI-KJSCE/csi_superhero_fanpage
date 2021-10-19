@@ -1,0 +1,10 @@
+{    
+    "title" : "<SPIDER MAN>",
+    "image" : "<https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wired.com%2Fstory%2Fspider-man-success-means-for-marvel%2F&psig=AOvVaw1E2jj1h3TsbzMZPhu5tIuh&ust=1634724090216000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPig0qqe1vMCFQAAAAAdAAAAABAD>",
+    "description" :"<Just a teenager with special powers>",
+    "power" : ["Super quick", "super strong", "super quick as well"],
+    "widget_color" :"<blue>",
+    "text_color" :"<black>", 
+    "dialogue":"<That thing doesn't allow the laws of physics at all!!>",
+    "author" : "<Pranay>"
+}    
