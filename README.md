@@ -1,5 +1,5 @@
 # CSI Superhero Fanpage
-The Superhero fanpage!! Create Pull request and start with open source
+This repository has been made to help the beginners learn about hacktober fest and help them to get started with it. Hackotober fest is the first step towards all those aspiring to contribute to open source software. We, at CSI-KJSCE, have created a React application called the "The Superhero fanpage"!! So..go ahead, create a pull request and start with your open source now!
 
 ## Setup
 ```sh
