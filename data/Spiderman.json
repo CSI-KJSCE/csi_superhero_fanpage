@@ -1,0 +1,10 @@
+{
+    "title" : "Spiderman",
+    "image" : "https://i.pinimg.com/originals/76/46/a9/7646a94792eeb2b072335e16dd7c9f11.png",
+    "description" :"It's your friendly neighborhood spiderman.",
+    "power" : ["Shoots webs from hands"],
+    "widget_color" :"red",
+    "text_color" :"white", 
+    "dialogue":"Pizza time.",
+    "author" : "Siddhesh"
+}

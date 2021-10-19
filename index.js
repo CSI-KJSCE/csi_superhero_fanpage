@@ -13,6 +13,7 @@ app.get('/',async(req,res) =>{
         var json_data =[];
         const jsonsInDir = fs.readdirSync('./data').filter(file => path.extname(file) === '.json');
         jsonsInDir.forEach(file => {
+            console.log(file);
             const fileData = fs.readFileSync(path.join('./data', file));
             const json = JSON.parse(fileData.toString());
             json_data.push(json);

@@ -1,0 +1,10 @@
+{
+"title" : "Doctor Strange",
+"image" : "https://hips.hearstapps.com/digitalspyuk.cdnds.net/16/13/1459632762-benedict-cumberbatch-doctor-strange.jpg", 
+"desciption" : "The mightiest magician in the cosmos",
+"power" : ["Genius","Eye of Agomotto","Magician"],
+"widget_color" : "red",
+"text_color" : "Blue",
+"dialogue" :  "Dormammu, I've come to bargain.",
+"author" : "Praneel Bora"
+}

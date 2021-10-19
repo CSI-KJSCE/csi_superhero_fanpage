@@ -1,0 +1,10 @@
+{
+    "title" :"Winter Soldier",
+    "image" :"http://honisoit.com/wp-content/uploads/2021/05/winter-soldier-600x420-1-600x400.png",
+    "description" :"Childhood friend of Captain America who was experimented on by Hydra and then was provided a Metal Arm and Superhuman Abilities.",
+    "power" :["Metal Arm","Superhuman Abilities","Avenger"],
+    "widget_color" :"black",
+    "text_color" :"white", 
+    "dialogue":"How can I do something stupid ? You are taking all the stupid with you !!",
+    "author" : "Varad Brid"
+}

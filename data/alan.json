@@ -1,0 +1,10 @@
+{
+    "title" : "Black Widow",
+    "image" : "https://th.bing.com/th/id/OIP.lOLdnIg6_vIByZv2iCwduQHaNH?w=115&h=185&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+    "description" :"Deadly one-woman fighting force.",
+    "power" : ["Superhuman Strength" , "Speed", "Agility" ],
+    "widget_color" :"violet",
+    "text_color" :"white", 
+    "dialogue":"I don't judge people on their worst mistakes.",
+    "author" : "Alan"
+}

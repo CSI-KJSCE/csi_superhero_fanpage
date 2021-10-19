@@ -1,0 +1,10 @@
+{
+    "title" : "Groot",
+    "image" : "https://i.guim.co.uk/img/media/f1459b35b58255f2ee15e63e34e3b04a07e8825e/296_0_1328_797/master/1328.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=9a2675dd0648b61c2ce4f9021f9ad7e7",
+    "description" :"An extraterrestrial tree monster who initially came to Earth seeking humans to capture and study.",
+    "power" :["Tall Tales","Lending a Limb] ,
+    "widget_color" :"green",
+    "text_color" :"white", 
+    "dialogue":"I am Groot!!!!",
+    "author" : "Raj Agrawal"
+}

@@ -1,0 +1,10 @@
+{
+    "title" :"Night Monkey",
+    "image" :"https://pm1.narvii.com/7258/aa4f4fd2e6ea91ff434538d9c69342ad31b756ecr1-500-495v2_hq.jpg",
+    "description" :"European ripoff version of Spiderman",
+    "power" :["Enhanced Senses","Web Creation","Acrobatics"],
+    "widget_color" :"black",
+    "text_color" :"white", 
+    "dialogue":"Okay, I'm on it.",
+    "author" : "Alan George"
+}

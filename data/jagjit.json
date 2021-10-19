@@ -1,0 +1,10 @@
+{
+    "title" : "Doctor Strange",
+    "image" : "https://i.postimg.cc/xCnrSwFP/strange.jpg",
+    "description" :"Doctor Strange serves as the Sorcerer Supreme, the primary protector of Earth against magical and mystical threats.",
+    "power" : ["Mystic Arts", "Eye of Agamotto", "Cloak of Levitation"],
+    "widget_color" :"red",
+    "text_color" :"blue", 
+    "dialogue":"Dormammu, I've come to bargain.",
+    "author" : "Jagjit Singh Bhumra"
+}

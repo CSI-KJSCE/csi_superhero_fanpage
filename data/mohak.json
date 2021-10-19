@@ -1,0 +1,10 @@
+{
+    "title" : "Black Widow",
+    "image" : "https://img.etimg.com/thumb/msid-80880688,width-650,imgsize-640206,,resizemode-4,quality-100/black-widow-was-originally-scheduled-for-release-in-may-2020-but-was-delayed-due-to-the-coronavirus-pandemic-.jpg",
+    "description" :"Black Widow is a deadly one-woman fighting force. An expert in many forms of martial arts.",
+    "power" : ["Strength","Speed","Endurance","Avenger"],
+    "widget_color" :"black",
+    "text_color" :"white", 
+    "dialogue":"The Best Part Of My Life Was Fake And None Of You Told Me",
+    "author" : "Mohak Khetan"
+}
