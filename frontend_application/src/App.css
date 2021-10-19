@@ -1,12 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+Mono&display=swap');
 @font-face {
   font-family: simple-comic;
   src: url("./fonts/simple-comic.otf") format("opentype");
 }
 
 @font-face {
-  font-family: rogers;
-  src: url("./fonts/rogers.otf") format("opentype");
+  font-family: notosans-fontface;
+  src: url("./fonts/NotoSansMono-Regular.ttf") format("truetype");
 }
 
 
@@ -65,7 +66,7 @@
 
 .title_name{
   font-weight: bold;
-  font-family: 'rogers';
+  font-family: 'notosans-fontface';
   font-size :50px;
   letter-spacing :2.2px;
   margin-bottom: 10px;

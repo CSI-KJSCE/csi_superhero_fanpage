@@ -1,0 +1,10 @@
+{
+    "title" :"Thor",
+    "image" :"https://static.wikia.nocookie.net/disney/images/4/4a/Thor_Odinson_TDW_poster_textless.jpg/revision/latest/scale-to-width-down/1000?cb=20130615173905",
+    "description" :"Asgardian warrior-prince",
+    "power" :["Mjölnir","Strong","Agile","Avenger"],
+    "widget_color" :"red",
+    "text_color" :"white", 
+    "dialogue":"I'm Still Worthy.",
+    "author" : "Charmee Mehta"
+}
