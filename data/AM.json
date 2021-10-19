@@ -4,7 +4,7 @@
     "description" :"A deadly one-woman fighting force",
     "power" :["Tech Suit","Genius","Iron Armor","Avenger"],
     "widget_color" :"pink",
-    "text_color" :"white", 
+    "text_color" :"black", 
     "dialogue":"Let Me Put You On Hold.",
     "author" : "Attreyee Mukherjee"
 }
