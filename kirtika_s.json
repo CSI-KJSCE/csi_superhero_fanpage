@@ -1,0 +1,10 @@
+{
+    "title" : "Black Widow",
+    "image" : "https://terrigen-cdn-dev.marvel.com/content/prod/1x/042_bluebayou_digital_keyart_teaser_r16_lg.jpg",
+    "description" :"a deadly one-woman fighting force",
+    "power" : ["speed","agility"],
+    "widget_color" :"black",
+    "text_color" :"white", 
+    "dialogue":"Pain only makes us stronger.",
+    "author" : "Kirtika Singh"
+}
