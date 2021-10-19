@@ -1,10 +1,10 @@
 {
-    "title" : "Black Widow",
-    "image" : "https://terrigen-cdn-dev.marvel.com/content/prod/1x/042_bluebayou_digital_keyart_teaser_r16_lg.jpg",
-    "description" :"a deadly one-woman fighting force",
-    "power" : ["speed","agility"],
-    "widget_color" :"black",
+    "title" : "The Powerpuff girls",
+    "image" : "https://cdn.britannica.com/08/190808-050-CB26C47B/The-Powerpuff-Girls-Bubbles-Blossom-Buttercup.jpg",
+    "description" :"defenders of the fictional metropolis Townville",
+    "power" : ["superhuman","kindergartners"],
+    "widget_color" :"pink",
     "text_color" :"white", 
-    "dialogue":"Pain only makes us stronger.",
+    "dialogue":"I'll Prove That I Can Be... HARDCORE!",
     "author" : "Kirtika Singh"
 }
