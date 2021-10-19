@@ -1,0 +1,10 @@
+{
+    "title" : "Doraemon",
+    "image" : "https://i.pinimg.com/236x/cf/a4/75/cfa475ac29e6a259efa430dc0a81225a.jpg",
+    "description" :" A cat-like robot of the 22nd century, He loves Japanese traditional sweet Dorayaki and suffers from musophobia",
+    "power" : ["Future Robot","Childhood Superhero","A Good Friend","Helps Everypone"],
+    "widget_color" :"<blue>",
+    "text_color" :"<black>", 
+    "dialogue":"<Nobita is always dependent on me but I know one day he will make me proud!!>",
+    "author" : "<Raj Agrawal>"
+}
