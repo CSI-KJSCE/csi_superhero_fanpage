@@ -1,0 +1,10 @@
+{
+    "title" :"Black Panther",
+    "image" :"https://cdn.vox-cdn.com/thumbor/aSyh95vU6DgLaar3tOuBnQge8JI=/0x0:3840x2160/1220x813/filters:focal(859x199:1473x813):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/69585859/MarvelsAvengers_E3SEP_BlackPanther.0.jpg",
+    "description" :"Black Panther is the head of state of the African nation of Wakanda. He was the King/Chieftain, religious leader, and commander-in-chief all rolled into one.",
+    "power" :["Fearless","Genius","Strategist"],
+    "widget_color" :"black",
+    "text_color" :"white", 
+    "dialogue":"Wakanda Forever!",
+    "author" : "Hetvi Gudka"
+}
