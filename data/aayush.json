@@ -1,0 +1,10 @@
+{
+    "title" :"Captain America",
+    "image" :"https://i.postimg.cc/zfbL6Vty/cap-amer.jpg",
+    "description" :"Your Captain",
+    "power" :["Shield","Agility"," Mjölnir"],
+    "widget_color" :"blue",
+    "text_color" :"white", 
+    "dialogue":"Avengers assemble!!",
+    "author" : "Aayush Pandey"
+}
