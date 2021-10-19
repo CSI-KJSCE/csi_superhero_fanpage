@@ -1,12 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+Mono&display=swap');
 @font-face {
   font-family: simple-comic;
   src: url("./fonts/simple-comic.otf") format("opentype");
 }
 
 @font-face {
-  font-family: rogers;
-  src: url("./fonts/rogers.otf") format("opentype");
+  font-family: notosans-fontface;
+  src: url("./fonts/NotoSansMono-Regular.ttf") format("truetype");
 }
 
 
@@ -21,19 +22,16 @@
 }
 
 .logo{
-  width: 90%;
   justify-self: center;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  padding-top: 6%;
-  padding-bottom: 1rem;
+  padding-top: 50px;
+  padding-bottom: 30px;
 }
 
 .superhero_container{
   display:flex;
-  flex-direction: column;
-  padding: 1.4rem;
   margin-top :3em;
   width :75%;
   background-color: rgb(236, 231, 231);
@@ -46,11 +44,14 @@
 }
 
 .photo{
-  display :block;
+  display :block
 }
 .superhero_photo{
-  margin: 5% auto;
-  width: 100%;
+  margin-left: 20px;
+  margin-top: 5px;
+  margin-bottom:5px;
+  height: 350px;
+  width: 260px;
   object-fit: cover;
   border:2px solid #666;
   border-radius:5px;
@@ -58,22 +59,17 @@
 }
 
 .info_division{
-  width: 94%;
   display: block;
-}
-.info_division--title{
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+  margin-left: 40px;
+  margin-right: 10px;
 }
 
 .title_name{
   font-weight: bold;
-  font-family: 'rogers';
+  font-family: 'notosans-fontface';
   font-size :50px;
   letter-spacing :2.2px;
   margin-bottom: 10px;
-  text-align: center;
 }
 .description{
   font-size :24px;
@@ -81,9 +77,8 @@
 }
 
 .powers_arrays{
+  margin-top: 26px;
   display :flex;
-  flex-wrap: wrap;
-  justify-content: center;
 }
 .power{
   background-color: rgb(247, 79, 49);
@@ -119,44 +114,6 @@
   font-weight: bold;
   font-family:'Courier New', Courier, monospace;
   color:rgb(99, 92, 92);
-}
-
-@media(min-width:1024px){
-  .logo{
-    width: 45%;
-    padding-top: 50px;
-    padding-bottom: 30px;
-  }
-  .superhero_container{
-    display: grid;
-    grid-template-columns: 1fr 3fr;
-    margin-top :3em;
-    /* width :75%; */
-    margin-left: auto;
-    margin-right: auto;
-  }
-  .info_division--title{
-    flex-direction: row;
-  }
-  .photo{
-    margin-right: 1.5rem;
-  }
-  .superhero_photo{
-    margin: 5px 0 50px 20px;
-    width: 100%;
-    max-height: 350px;
-  }
-  .info_division {
-      margin-left: 40px;
-      margin-right: 10px;
-  }
-  .powers_arrays{
-    justify-content: start;
-  }
-  .powers_arrays{
-    margin-top: 26px;
-  }
-  .Author_name{
-    margin-left: 2rem;
-  }
+  float: right;
+  justify-content:flex-end;
 }
