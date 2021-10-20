@@ -2,7 +2,7 @@ import "./App.css";
 import logo from "./assets/logo2.png";
 import iron_man from "./assets/iron-man.jpg";
 import { useEffect, useState } from "react";
-import { Table, Spinner } from "react-bootstrap";
+// import { Table, Spinner } from "react-bootstrap";
 import spinner from "./assets/Spinner.gif";
 
 function App() {
@@ -11,17 +11,18 @@ function App() {
 
   useEffect(() => {
     let url = "https://superherobackend12.herokuapp.com/";
-    fetch(url)
-      .then((response) => {
-        response.json().then((result) => {
-          console.log(result);
-          setData(result);
-          setLoading(false);
-        });
-      })
-      .catch((err) => {
-        console.log(err);
-      });
+    try{
+      const make_request = async()=>{
+        let result = await fetch(url);
+        result = await result.json();
+        console.log(result);
+        setData(result);
+        setLoading(false);
+      }
+      make_request();
+    }catch(err){
+      console.log(err);
+    }
   }, []);
 
   return (
