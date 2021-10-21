@@ -1,0 +1,10 @@
+{
+    "title" :"Rocket Raccoon",
+    "image" :"https://heroichollywood.com/wp-content/uploads/2019/02/Rocket-Raccoon-Bradley-Cooper.jpg",
+    "description" :"Weapons and Tactical expert of the Guardians of the Galaxy!",
+    "power" :["Expert Engineer","Accomplished Pilot","Agility"],
+    "widget_color" :"orange",
+    "text_color" :"black", 
+    "dialogue":"So we're saving the galaxy again?",
+    "author" : "Alan George"
+}
