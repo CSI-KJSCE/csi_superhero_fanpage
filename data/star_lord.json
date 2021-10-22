@@ -1,0 +1,10 @@
+{
+    "title" :"Star Lord",
+    "image" :"https://theculturednerd.org/wp-content/uploads/2020/11/3290D6B2-206F-461C-A865-526ED34BB96C-scaled.jpeg",
+    "description" :"Leader of the Guardians of the Galaxy",
+    "power" :["Hlaf Celestial","Energy Manipulation","Combat","Accomplished Pilot"],
+    "widget_color" :"brown",
+    "text_color" :"white", 
+    "dialogue" : "What should we do next? Something good?, Something bad? Bit of both?",
+    "author" : "Alan George"
+}
