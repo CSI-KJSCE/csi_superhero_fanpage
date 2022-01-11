@@ -4,9 +4,7 @@ The Superhero fanpage!! <br>
 * React
 * NodeJS and ExpressJS
 
-![SuperHero fanpage](https://postimg.cc/jLjfr0GW "Superhero") <br>
-![SuperHero fanpage](https://postimg.cc/1gyPLPj2 "Superhero")
-
+![Screenshot-363.png](https://i.postimg.cc/15GrwyBK/Screenshot-363.png)
 ## Setup
 ```sh
 $ git clone https://github.com/csikjsce/superhero-fanpage-hacktoberfest2021
