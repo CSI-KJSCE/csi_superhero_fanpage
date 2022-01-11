@@ -1,10 +1,10 @@
 {
     "title" : "<Wolverine>",
     "image" : "<https://images.news18.com/ibnlive/uploads/2017/03/hugh-jackman.jpg?impolicy=website&width=510&height=356>",
-    "description" :"<Wolverine is a fierce and fiercely loyal mutant superhero. He is brawny, cranky, and has a temper.">,
+    "description" :"<Wolverine is a fierce and fiercely loyal mutant superhero. He is brawny, cranky, and has a temper.",
     "power" : ["healing factor", "admantium claws"],
-    "widget_color" :"<yellow>",
-    "text_color" :"<blue>", 
-    "dialogue":"<aarghh!!>",
-    "author" : "<Soham>"
+    "widget_color" :"yellow",
+    "text_color" :"blue", 
+    "dialogue":"aarghh!!",
+    "author" : "Soham"
 }
